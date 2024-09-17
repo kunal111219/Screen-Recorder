@@ -48,9 +48,9 @@ This project captures your screen and records it into a video file using Python.
 
 ## Configuration
 
-- Resolution: The default resolution is set to 1920x1080. You can modify the resolution variable in the script if you need a different resolution.
-- Frame Rate: The default frame rate is set to 60.0 FPS. Adjust the fps variable to change the recording frame rate.
-- Video Codec: The script uses the XVID codec for encoding. If needed, you can change the codec in the cv2.VideoWriter_fourcc() function.
+- Resolution: The default resolution is set to 1920x1080. You can modify the `resolution` variable in the script if you need a different resolution.
+- Frame Rate: The default frame rate is set to 60.0 FPS. Adjust the `fps` variable to change the recording frame rate.
+- Video Codec: The script uses the XVID codec for encoding. If needed, you can change the codec in the `cv2.VideoWriter_fourcc()` function.
 
 ## Contributing
 
