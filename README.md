@@ -41,10 +41,12 @@ This project captures your screen and records it into a video file using Python.
 
     ```bash
     python Screen_recording.ipynb
+    ```
+    The script will start capturing your screen and saving the video as `Recording.mp4` in the same directory.
 
 3. **Stop the script**
 
-    Press the q key to stop the recording and save the video.
+    Press the `q` key to stop the recording and save the video.
 
 ## Configuration
 
